@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sophie</h1>
+<p align = "center"><img src="https://github.com/dessertivore/dessertivore/assets/95981224/9a67a214-d5c6-49b9-9a81-d1e4c8a7229f" align="center" height = "250"></p>
 <h3 align="center">A passionate backend / full stack developer from London, UK</h3>
 
 - 🔭 I’m currently working on **streamlining the code on my past projects!**
