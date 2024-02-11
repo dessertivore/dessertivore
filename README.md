@@ -1,6 +1,6 @@
 <p align = "center"><img src="https://github.com/dessertivore/dessertivore/assets/95981224/9a67a214-d5c6-49b9-9a81-d1e4c8a7229f" align="center" height = "250"></p>
 
-- 🔭 I’m currently working on **streamlining the code on my past projects!**
+- 🔭 I’m currently working on **streamlining the code on my past projects, and a run planner!**
 
 - 🌱 I’m currently learning about **AWS**
 
